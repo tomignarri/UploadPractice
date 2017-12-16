@@ -1,2 +1,2 @@
 # UploadPractice
-I project to learn about github
+A project to learn about github
